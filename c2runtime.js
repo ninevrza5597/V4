@@ -17566,7 +17566,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.SubVar,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.acts.GoToLayout,
-	cr.plugins_.Mouse.prototype.cnds.OnRelease,
-	cr.system_object.prototype.acts.SetVar
+	cr.system_object.prototype.acts.SetVar,
+	cr.plugins_.Mouse.prototype.cnds.OnRelease
 ];};
 
